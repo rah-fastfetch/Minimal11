@@ -2,6 +2,8 @@
 
 This is a **custom Windows 11 ISO** that has been **extensively debloated** to improve performance, privacy, and usability. It removes unnecessary apps, services, and telemetry while preserving core functionality for daily and professional use.
 
+### ➤ [Minimal11.iso](https://drive.google.com/file/d/1UrKGW0lAF94_p-ptZ4BNj3DysBJUuAdb/view)
+
 ---
 
 ## ✅ Key Features
