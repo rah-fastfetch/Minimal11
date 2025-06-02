@@ -34,7 +34,7 @@ After Windows installation is complete, use **Talon Debloater** for additional o
 - Offers a modular and user-friendly interface.
 - Optional advanced tweaks and privacy enhancements.
 
--# ➤ [Talon Debloater Direct Installer](https://code.ravendevteam.org/talon/talon.zip)
+# ➤ [Talon Debloater Direct Installer](https://code.ravendevteam.org/talon/talon.zip)
 
 ---
 
