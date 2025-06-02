@@ -48,13 +48,13 @@ After Windows installation is complete, use **Talon Debloater** for additional o
 
 ## ⚠️ Disclaimer
 
-This ISO is intended for **advanced users and system tweakers**.  
-Use at your own discretion. Always **back up your data** before installing any modified operating system.
+This ISO is intended for **Low end systems aswell gamers wanting as much performance as possible**.  
+Always **back up your data important data** before installing any new operating system.
 
 ---
 
 ## 💬 Questions or Feedback?
 
-Feel free to submit feedback or ask questions through GitHub or relevant online communities.
+Feel free to submit feedback or ask questions through discord @fastfetch or relevant online communities.
 
 ---
